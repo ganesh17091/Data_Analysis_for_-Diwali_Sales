@@ -39,7 +39,7 @@ Performed a detailed analysis to understand:
 ## 📈 Visualization
 Data visualization was done using:
 - **Matplotlib**  
-- **Seaborn**
+
 
 These helped in generating clear bar plots, count plots, and distribution graphs to identify trends such as:
 - Women customers, particularly those who are married, spend more during Diwali.  
@@ -56,35 +56,34 @@ These helped in generating clear bar plots, count plots, and distribution graphs
 - Python  
 - Pandas  
 - NumPy  
-- Matplotlib  
-- Seaborn  
+- Matplotlib   
 - Jupyter Notebook  
 
 ## 📁 Project Structure
-```
+
 📂 Diwali_Sales_Analysis/
 │-- 📘 Diwali_Sales_Analysis.ipynb
 │-- 📄 README.md
 │-- 📊 data.csv  (optional, if dataset is included)
-```
+
 
 ## ▶️ How to Run
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Diwali_Sales_Analysis.git
-   ```
+   
+   git clone "This Repose HTTPS Link"
+   
 2. Open the project folder:
-   ```bash
+   
    cd Diwali_Sales_Analysis
-   ```
+   
 3. Install the required libraries:
-   ```bash
+
    pip install pandas numpy matplotlib seaborn
-   ```
+
 4. Launch Jupyter Notebook:
-   ```bash
+   
    jupyter notebook
-   ```
+
 5. Open **`Diwali_Sales_Analysis.ipynb`** and run all cells.
 
 ---
